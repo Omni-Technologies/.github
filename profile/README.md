@@ -1,9 +1,9 @@
-<!-- Hero (works because images are stored locally in .github/assets) -->
+<!-- Hero banner linking to your website -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/hero-dark.png">
-    <img src="../assets/hero-light.png" alt="Omni Technologies — Life Safety & Low Voltage Systems" width="100%">
-  </picture>
+  <a href="https://www.omnitechnologiesllc.com/">
+    <img src="https://static.wixstatic.com/media/8111ed_48ee243f282248dfbf11e091a63e3b1d~mv2.jpg/v1/fill/w_1312,h_768,al_c,q_85,enc_avif,quality_auto/8111ed_48ee243f282248dfbf11e091a63e3b1d~mv2.jpg" 
+         alt="Omni Technologies — Life Safety & Low Voltage Systems" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">Omni Technologies</h1>
@@ -26,42 +26,42 @@
 
 ---
 
-## 🧭 What we do
+## 🧭 What We Do
 
-- **Fire Alarm & Life Safety** — design, install, service
-- **Security** — access control, intrusion, video
-- **Nurse Call & Clinical Comms** — acute & post-acute
-- **Audio/Visual** — conferencing, paging, signage
-- **Service & Monitoring** — inspections, testing, maintenance
+- **Fire Alarm & Life Safety** — design, install, service  
+- **Security** — access control, intrusion, video surveillance  
+- **Nurse Call & Clinical Comms** — acute & post-acute  
+- **Audio/Visual** — conferencing, paging, signage  
+- **Service & Monitoring** — inspections, testing, maintenance  
 
-> Wisconsin-based, project-proven. Code-compliant solutions delivered with speed and clarity.
+> Wisconsin-based. Project-proven. Code-compliant solutions delivered with speed and clarity.
 
 ---
 
-## 🔗 Quick links
+## 🔗 Quick Links
 
 | 📍 | Link |
 |---|------|
 | 🌐 | **Website:** <https://www.omnitechnologiesllc.com/> |
 | ✉️ | **Email:** <mailto:info@omnitechnologiesllc.com> |
-| 🧰 | **All repositories:** <https://github.com/Omni-Technologies?tab=repositories> |
-| 🗺️ | **GitHub Pages site:** <https://omni-technologies.github.io/> |
+| 🧰 | **All Repositories:** <https://github.com/Omni-Technologies?tab=repositories> |
+| 🗺️ | **GitHub Pages Site:** <https://omni-technologies.github.io/> |
 
 ---
 
-## 🛠 Featured repositories
+## 🛠 Featured Repositories
 
-> highlight a few public repos you want visitors to see.
+> Highlight key projects visible to the public.
 
-- [`omni-technologies.github.io`](https://github.com/Omni-Technologies/Omni-Technologies.github.io) — public website content
-- *(add more here as they go public)*
+- [`omni-technologies.github.io`](https://github.com/Omni-Technologies/Omni-Technologies.github.io) — public website  
+- *(more to come!)*
 
 ---
 
-## 🤝 Work with us
+## 🤝 Work With Us
 
 Need a partner for a project or service contract?  
-**Email:** <info@omnitechnologiesllc.com> • **Phone:** 608-819-1980
+📧 **info@omnitechnologiesllc.com** 📞 **608-819-1980**
 
 ---
 
